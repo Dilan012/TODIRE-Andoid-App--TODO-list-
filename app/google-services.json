@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077355374590",
+    "project_id": "todire-8886a",
+    "storage_bucket": "todire-8886a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077355374590:android:6bb828d2b532a47e2302af",
+        "android_client_info": {
+          "package_name": "com.example.todire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDARrCOIocp924i53z9wSg6S0p42ZDVqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

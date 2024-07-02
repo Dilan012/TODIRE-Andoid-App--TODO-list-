@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="RoundedCornersDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/task_dialog_box_round_corner_background</item>
+    </style>
+
+    <style name="CustomToolbarStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+
+
+
+
+</resources>
+
