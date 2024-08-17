@@ -27,7 +27,7 @@ Open in Android Studio:
 Select File > Open and navigate to the cloned repository.
 Wait for Gradle to build the project.
 
-###Configure Firebase:
+### Configure Firebase:
 Go to the Firebase Console.
 Create a new project or use an existing one.
 Add an Android app to your Firebase project with your app's package name.
